@@ -1,0 +1,11 @@
+LINUX ADMINISTRATION LAB SHEET - 1
+Course Code: DCS583
+
+QUESTION 44
+Display the total size of a directory
+
+CODE / COMMAND:
+du -sh ~/project
+
+EXPLANATION:
+Displays total disk usage in readable units.

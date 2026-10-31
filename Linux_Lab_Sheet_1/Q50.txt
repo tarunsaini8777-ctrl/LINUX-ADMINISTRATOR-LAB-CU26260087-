@@ -1,0 +1,11 @@
+LINUX ADMINISTRATION LAB SHEET - 1
+Course Code: DCS583
+
+QUESTION 50
+Find files in /var/log modified within the last seven days
+
+CODE / COMMAND:
+find /var/log -type f -mtime -7
+
+EXPLANATION:
+Finds regular files modified less than seven 24-hour periods ago.

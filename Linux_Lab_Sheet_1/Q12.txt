@@ -1,0 +1,11 @@
+LINUX ADMINISTRATION LAB SHEET - 1
+Course Code: DCS583
+
+QUESTION 12
+Display total and used RAM
+
+CODE / COMMAND:
+free -h
+
+EXPLANATION:
+Displays total, used, and available memory.

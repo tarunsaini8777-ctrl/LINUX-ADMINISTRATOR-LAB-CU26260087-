@@ -1,0 +1,11 @@
+LINUX ADMINISTRATION LAB SHEET - 1
+Course Code: DCS583
+
+QUESTION 27
+Display matching lines with line numbers
+
+CODE / COMMAND:
+grep -in "a" class_list.txt
+
+EXPLANATION:
+Displays line numbers and matching text.

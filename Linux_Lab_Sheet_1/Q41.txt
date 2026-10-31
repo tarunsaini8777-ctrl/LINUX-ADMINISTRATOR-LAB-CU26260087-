@@ -1,0 +1,11 @@
+LINUX ADMINISTRATION LAB SHEET - 1
+Course Code: DCS583
+
+QUESTION 41
+Count all .txt files under the home directory
+
+CODE / COMMAND:
+find ~ -type f -name "*.txt" | wc -l
+
+EXPLANATION:
+Counts matching file paths.

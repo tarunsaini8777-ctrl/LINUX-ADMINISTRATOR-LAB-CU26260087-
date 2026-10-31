@@ -1,0 +1,15 @@
+LINUX ADMINISTRATION LAB SHEET - 1
+Course Code: DCS583
+
+QUESTION 36
+Create logs/app.log with ten lines and show the last three
+
+CODE / COMMAND:
+mkdir -p ~/logs
+for i in {1..10}; do
+    echo "This is log line $i" >> ~/logs/app.log
+done
+tail -n 3 ~/logs/app.log
+
+EXPLANATION:
+The loop appends ten lines each time it runs.

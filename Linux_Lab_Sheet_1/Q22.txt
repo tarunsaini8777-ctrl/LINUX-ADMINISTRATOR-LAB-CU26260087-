@@ -1,0 +1,11 @@
+LINUX ADMINISTRATION LAB SHEET - 1
+Course Code: DCS583
+
+QUESTION 22
+Display the first two names in students.txt
+
+CODE / COMMAND:
+head -n 2 students.txt
+
+EXPLANATION:
+Displays the first two lines.

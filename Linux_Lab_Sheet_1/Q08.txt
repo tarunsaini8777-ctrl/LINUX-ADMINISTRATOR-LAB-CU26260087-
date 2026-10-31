@@ -1,0 +1,11 @@
+LINUX ADMINISTRATION LAB SHEET - 1
+Course Code: DCS583
+
+QUESTION 8
+Display the contents of /etc/os-release
+
+CODE / COMMAND:
+cat /etc/os-release
+
+EXPLANATION:
+Displays information about the Linux distribution.

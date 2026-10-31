@@ -1,0 +1,12 @@
+LINUX ADMINISTRATION LAB SHEET - 1
+Course Code: DCS583
+
+QUESTION 49
+Redirect uname output to sys_info.txt and display it
+
+CODE / COMMAND:
+uname -a > sys_info.txt
+cat sys_info.txt
+
+EXPLANATION:
+Saves system information to a file and displays it.

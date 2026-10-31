@@ -1,0 +1,12 @@
+LINUX ADMINISTRATION LAB SHEET - 1
+Course Code: DCS583
+
+QUESTION 48
+Create duplicate lines and display unique lines
+
+CODE / COMMAND:
+printf "Apple\nBanana\nApple\nMango\nBanana\n" > fruits.txt
+sort fruits.txt | uniq
+
+EXPLANATION:
+sort groups duplicate lines; uniq removes adjacent duplicate lines from the output.

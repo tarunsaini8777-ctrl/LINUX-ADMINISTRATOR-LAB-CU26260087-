@@ -1,0 +1,12 @@
+LINUX ADMINISTRATION LAB SHEET - 1
+Course Code: DCS583
+
+QUESTION 35
+Move a.txt and b.txt into archive/
+
+CODE / COMMAND:
+mkdir -p ~/archive
+mv ~/myfirstlab/a.txt ~/myfirstlab/b.txt ~/archive/
+
+EXPLANATION:
+Moves both files to archive.

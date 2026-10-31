@@ -1,0 +1,11 @@
+LINUX ADMINISTRATION LAB SHEET - 1
+Course Code: DCS583
+
+QUESTION 47
+Update timestamps without changing file contents
+
+CODE / COMMAND:
+touch class_list.txt
+
+EXPLANATION:
+Updates access and modification timestamps of the file.

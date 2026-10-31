@@ -1,0 +1,11 @@
+LINUX ADMINISTRATION LAB SHEET - 1
+Course Code: DCS583
+
+QUESTION 37
+Find .log files and display their contents
+
+CODE / COMMAND:
+find . -type f -name "*.log" -exec cat {} \;
+
+EXPLANATION:
+Searches from the current directory and displays each matching file.

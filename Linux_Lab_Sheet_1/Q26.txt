@@ -1,0 +1,11 @@
+LINUX ADMINISTRATION LAB SHEET - 1
+Course Code: DCS583
+
+QUESTION 26
+Search class_list.txt for names containing the letter a
+
+CODE / COMMAND:
+grep -i "a" class_list.txt
+
+EXPLANATION:
+Displays matching lines, ignoring case.

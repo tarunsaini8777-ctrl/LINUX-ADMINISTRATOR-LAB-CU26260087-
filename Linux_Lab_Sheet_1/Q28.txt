@@ -1,0 +1,12 @@
+LINUX ADMINISTRATION LAB SHEET - 1
+Course Code: DCS583
+
+QUESTION 28
+Give class_list.txt owner-only read/write permissions
+
+CODE / COMMAND:
+chmod 600 class_list.txt
+ls -l class_list.txt
+
+EXPLANATION:
+Mode 600 gives the owner read/write access and gives group/others no permissions.

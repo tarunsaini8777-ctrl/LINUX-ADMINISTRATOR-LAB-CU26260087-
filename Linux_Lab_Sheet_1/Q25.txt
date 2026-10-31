@@ -1,0 +1,11 @@
+LINUX ADMINISTRATION LAB SHEET - 1
+Course Code: DCS583
+
+QUESTION 25
+Rename students.txt to class_list.txt
+
+CODE / COMMAND:
+mv students.txt class_list.txt
+
+EXPLANATION:
+Renames the file in the current directory.

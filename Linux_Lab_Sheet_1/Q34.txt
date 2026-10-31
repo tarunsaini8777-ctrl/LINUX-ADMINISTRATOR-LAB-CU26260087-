@@ -1,0 +1,12 @@
+LINUX ADMINISTRATION LAB SHEET - 1
+Course Code: DCS583
+
+QUESTION 34
+View a large text file page by page
+
+CODE / COMMAND:
+less class_list.txt
+# Press q to quit
+
+EXPLANATION:
+less lets you navigate a file page by page.

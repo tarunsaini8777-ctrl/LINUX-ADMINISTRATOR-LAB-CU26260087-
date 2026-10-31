@@ -1,0 +1,11 @@
+LINUX ADMINISTRATION LAB SHEET - 1
+Course Code: DCS583
+
+QUESTION 15
+Open the manual page for ls
+
+CODE / COMMAND:
+man ls
+
+EXPLANATION:
+Press q to exit the manual page.

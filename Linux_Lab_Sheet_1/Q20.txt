@@ -1,0 +1,11 @@
+LINUX ADMINISTRATION LAB SHEET - 1
+Course Code: DCS583
+
+QUESTION 20
+Delete c.txt from myfirstlab
+
+CODE / COMMAND:
+rm ~/myfirstlab/c.txt
+
+EXPLANATION:
+Deletes the specified file; verify the path before running.

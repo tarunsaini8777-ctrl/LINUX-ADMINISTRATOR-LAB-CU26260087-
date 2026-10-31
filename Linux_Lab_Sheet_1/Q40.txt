@@ -1,0 +1,11 @@
+LINUX ADMINISTRATION LAB SHEET - 1
+Course Code: DCS583
+
+QUESTION 40
+Create demo, enter it, and list its contents using &&
+
+CODE / COMMAND:
+mkdir -p demo && cd demo && ls
+
+EXPLANATION:
+&& runs the next command only if the previous command succeeds.

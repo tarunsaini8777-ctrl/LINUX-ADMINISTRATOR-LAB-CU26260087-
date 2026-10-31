@@ -1,0 +1,13 @@
+LINUX ADMINISTRATION LAB SHEET - 1
+Course Code: DCS583
+
+QUESTION 32
+Display the last five lines of a system log
+
+CODE / COMMAND:
+tail -n 5 /var/log/dpkg.log
+# If unavailable, try:
+tail -n 5 /var/log/syslog
+
+EXPLANATION:
+Displays the last five lines of the selected log file.
